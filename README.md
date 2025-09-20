@@ -1,4 +1,4 @@
-# No-Internet Dino Game on FPGA (DE1-SoC)
+# Google No-Internet Dino Game on FPGA (DE1-SoC)
 
 ## Overview
 This project implements a hardware version of the Chrome offline “Dino Game” on the **DE1-SoC FPGA board**. The game logic, VGA display, PS/2 input, and sprite animation are fully written in **Verilog**. The dino character jumps vertically to avoid obstacles, and game progress is visualized on the VGA display.
